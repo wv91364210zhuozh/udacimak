@@ -71,7 +71,7 @@
     "commander": "^2.18.0",
     "compare-versions": "^3.4.0",
     "copy-dir": "^0.4.0",
-    "directory-tree": "^2.1.0",
+    "directory-tree": "^2.2.5",
     "filenamify": "^2.1.0",
     "fs-extra": "^9.0.0",
     "handlebars": "^4.1.2",
