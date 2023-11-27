@@ -74,9 +74,9 @@
     "directory-tree": "^2.1.0",
     "filenamify": "^2.1.0",
     "fs-extra": "^9.0.0",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.7.4",
     "inquirer": "^6.2.0",
-    "npm": "^6.9.0",
+    "npm": "^7.0.0",
     "ora": "^3.0.0",
     "pkginfo": "^0.4.1",
     "progress-stream": "^2.0.0",
@@ -88,6 +88,6 @@
     "user-settings": "^0.2.0",
     "valid-url": "^1.0.9",
     "winston": "^3.1.0",
-    "youtube-dl": "^3.0.2"
+    "youtube-dl": "^3.4.0"
   }
 }
